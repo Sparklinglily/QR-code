@@ -6,7 +6,7 @@ body{
 
 .main{
     box-shadow: 2px 1px 5px #aab1bd ;
-    border-radius: 20px;
+    border-radius: 25px;
 
     padding: 15px;
     background-color: white;
@@ -17,7 +17,7 @@ body{
 }
 
 .qrCodeImage img{
-    border-radius: 10px;
+    border-radius: 15px;
     /* to resize an image proportionally into a container
     use % for either the width or height */
     width: 100%;  
@@ -34,4 +34,3 @@ body{
     color: #3e5c76;
     text-align: center;
 }
-
